@@ -1,0 +1,20 @@
+title: 2025년 뉴스 블로그
+description: >-
+  최신 핫 뉴스와 정보를 제공하는 블로그입니다.
+baseurl: "/blog"
+url: "https://ZEPLATFORM.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
